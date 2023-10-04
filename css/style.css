@@ -217,7 +217,7 @@ button:focus {
   box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3); }
   .primary_btn span {
     padding: 0 42px;
-  display: none;}
+  display: inline;}
   .primary_btn.tr-bg {
     background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
     border: 2px solid transparent;
